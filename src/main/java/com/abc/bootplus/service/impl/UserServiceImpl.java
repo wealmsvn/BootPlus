@@ -58,7 +58,6 @@ public class UserServiceImpl extends ServiceImpl<UserDao, User> implements UserS
                 return i;
             }
         }
-
         return -1;
     }
 }

@@ -27,7 +27,7 @@ public class MySwaggerConfig {
 
     private ApiInfo apiInfo() {
         return new ApiInfoBuilder()
-                .title("一兜糖项目接口API 文档")
+                .title("接口API 文档")
                 .description("HTTP对外开放接口")
                 .version("1.0.0")
                 .termsOfServiceUrl("http://xxx.xxx.com")
